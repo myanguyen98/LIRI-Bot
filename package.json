@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/myanguyen98/LIRI-Bot/issues"
   },
-  "homepage": "https://github.com/myanguyen98/LIRI-Bot#readme"
+  "homepage": "https://github.com/myanguyen98/LIRI-Bot#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
 }
